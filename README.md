@@ -1,2 +1,2 @@
-# Smart-Contract-Examples
-This repo consists of different Ethereum Smart Contract examples.
+# Smart Contract Examples
+This project consists Ethereum Smart Contract examples.
