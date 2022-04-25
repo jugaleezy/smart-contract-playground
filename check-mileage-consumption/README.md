@@ -3,7 +3,7 @@
 ## Overview
 * The task registers the user using the function **addUser**.
 * Once the user is registered, enter the mileage and ticket price details using the function **addMileage**.
-* User gets discount, when their total mileage and ticket price reaches 10000 and 20000 consicutively.
+* User gets discount, when their total mileage and ticket price reaches 10000 and 20000 consecutively.
 * User can check the discounted ticket price using the fuction **checkDiscountPrice**.
 * Users can check their details such as total mileage, total ticket price and discount available using the function **getUserDetails**.
 
